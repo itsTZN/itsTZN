@@ -2,13 +2,13 @@
 $ echo "Hello World!" > README.md
 ```
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
-</div>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+ <h3> About me</hr>
+ </div>
 <pre>
 💻 I am a self Learning Developer
 🌟 Languages: JavaScript, HTML, CSS
