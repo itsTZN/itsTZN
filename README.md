@@ -13,7 +13,7 @@ $ echo "Hello World!" > README.md
 💻 I am a self Learning Developer
 🌟 Languages: JavaScript, HTML, CSS
 📫 Mail: comming soon
-📫 Discord: `pijoters`
+📫 Discord: pijoters
 </pre>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
