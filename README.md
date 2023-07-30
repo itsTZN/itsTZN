@@ -14,6 +14,7 @@ $ echo "Hello World!" > README.md
 🌟 Languages: JavaScript, HTML, CSS
 📫 Mail: comming soon
 📫 Discord: pijoters
+📫 [Discord Server]((https://discord.gg/QDXKFnBA7e)
 </pre>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
