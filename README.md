@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 # Project Name
 
-[![License](https://img.shields.io/badge/Discord-blue_Link.svg)](LICENSE)
+[![License](https://img.shields.io/badge/Discord-blue-Link.svg)]
 
 A brief description of your project. Explain what it does and why it's useful.
 
