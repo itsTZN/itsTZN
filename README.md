@@ -9,7 +9,6 @@ $ echo "Hello World!" > README.md
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
  <h3> About me</hr>
  </div>
-[![age](https://img.shields.io/badge/age-18-blue)]
 <pre>
 💻 I am a self Learning Developer
 🌟 Languages: JavaScript, HTML, CSS
