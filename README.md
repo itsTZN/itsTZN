@@ -4,7 +4,7 @@
 
 <pre>
 💻 I am a self Learning Developer
-🌟 Main languages: JavaScript, HTML, CSS, 
+🌟 Main languages: JavaScript, HTML, CSS
 🚩 Interested in Coding
 </pre>
 
