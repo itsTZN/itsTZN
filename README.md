@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ### Hi there 👋
 
 <hr>
@@ -6,6 +7,7 @@
 💻 I am a self Learning Developer
 🌟 Main languages: JavaScript, HTML, CSS
 🚩 Interested in Coding
+📫 Mail: comming soon
 </pre>
 
 <hr>
