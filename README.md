@@ -12,7 +12,7 @@ $ echo "Hello World!" > README.md
 <pre>
 💻 I am a self Learning Developer
 🌟 Languages: JavaScript, HTML, CSS
-📫 Mail: comming soon
+📫 Mail: itstezen@gmail.com
 📫 Discord: pijoters
 📫 Discord Server: discord.gg/QDXKFnBA7e
 </pre>
